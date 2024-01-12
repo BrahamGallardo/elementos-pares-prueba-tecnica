@@ -1,0 +1,15 @@
+C:\Projects\EFactor\ElementosPares\bin\Debug\net7.0\ElementosPares.exe
+C:\Projects\EFactor\ElementosPares\bin\Debug\net7.0\ElementosPares.deps.json
+C:\Projects\EFactor\ElementosPares\bin\Debug\net7.0\ElementosPares.runtimeconfig.json
+C:\Projects\EFactor\ElementosPares\bin\Debug\net7.0\ElementosPares.dll
+C:\Projects\EFactor\ElementosPares\bin\Debug\net7.0\ElementosPares.pdb
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.csproj.AssemblyReference.cache
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.AssemblyInfoInputs.cache
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.AssemblyInfo.cs
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.csproj.CoreCompileInputs.cache
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.dll
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\refint\ElementosPares.dll
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.pdb
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ElementosPares.genruntimeconfig.cache
+C:\Projects\EFactor\ElementosPares\obj\Debug\net7.0\ref\ElementosPares.dll
